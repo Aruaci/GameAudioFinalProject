@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_enemy_collision" ID="{3E39EC8F-C38B-4311-83B4-8BBAD20DE06C}">
+					<ChildrenList>
+						<Action Name="" ID="{6BA42FB5-6DE9-4CA6-BBE6-741E4203572C}" ShortID="15069238">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="enemy_collision" ID="{6AF5388D-A569-4D60-B817-443ADD81362C}" WorkUnitID="{C908EBEE-C48C-4F2B-9E1C-6BC83DAE5F50}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Ocean_Ambience" ID="{2140F8C3-A5D3-41C1-9F25-2A029FCEB8E5}">
+					<ChildrenList>
+						<Action Name="" ID="{4ABDBB2E-9326-44EB-9AF2-DF686B9ECEB6}" ShortID="239059797">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ocean_Ambience" ID="{F35CDC3E-C82A-4371-8564-9DDD3D4E4B96}" WorkUnitID="{C908EBEE-C48C-4F2B-9E1C-6BC83DAE5F50}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Fish_Splash" ID="{592EF095-2669-4C3F-B204-89CA5F672A8B}">
+					<ChildrenList>
+						<Action Name="" ID="{309F6596-CE34-44B0-AC41-B34AAAC10DF1}" ShortID="155614473">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fish_Splash" ID="{B57DAE9A-C728-42D5-817F-2362E6168B4E}" WorkUnitID="{C908EBEE-C48C-4F2B-9E1C-6BC83DAE5F50}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Door_Close" ID="{3D40C68E-6615-4EE4-A8CD-29B667C75321}">
+					<ChildrenList>
+						<Action Name="" ID="{586A1D1F-0366-42BB-B4CA-8AF6C69B67D8}" ShortID="748800266">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door_Close" ID="{6B4E5EF3-6F39-4610-B7E7-A604BCDCE75D}" WorkUnitID="{C908EBEE-C48C-4F2B-9E1C-6BC83DAE5F50}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Door_Open" ID="{99D1E550-41D5-4FB7-9BB3-DCF83DA2674E}">
+					<ChildrenList>
+						<Action Name="" ID="{C912ED59-2C37-4A46-9448-F2EF6F4B9AB2}" ShortID="1034936385">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door_Open" ID="{40DC8D62-FE14-4A1A-8767-7D0DA63CD96F}" WorkUnitID="{C908EBEE-C48C-4F2B-9E1C-6BC83DAE5F50}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Shoot" ID="{6556AD22-D64C-49FC-A631-F915D2700443}">
+					<ChildrenList>
+						<Action Name="" ID="{D07E8619-BFFB-461C-9564-249E35FD69E2}" ShortID="334319375">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Shoot" ID="{7BED276D-F2FF-4314-B1B9-FD5C4B41DFC9}" WorkUnitID="{C908EBEE-C48C-4F2B-9E1C-6BC83DAE5F50}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Enemy_Hit" ID="{75E7427C-AE6C-4EEF-A453-78C3EA7528B4}">
+					<ChildrenList>
+						<Action Name="" ID="{B1C2388F-7CE0-496F-9EA8-E0DE0FA56BF6}" ShortID="928876436">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Enemy_hit" ID="{ED834E2D-8AD0-4AF8-ACEE-7D80861DBDCC}" WorkUnitID="{C908EBEE-C48C-4F2B-9E1C-6BC83DAE5F50}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Coin_Collision" ID="{357D9BE0-43DE-4FFF-BC21-04694FEF2FDA}">
+					<ChildrenList>
+						<Action Name="" ID="{01A56A13-10E1-446E-B827-790C8D3793D0}" ShortID="381952887">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Coin_Collision" ID="{B61BE5AF-F6FA-477A-B5AF-13969F67D6B1}" WorkUnitID="{C908EBEE-C48C-4F2B-9E1C-6BC83DAE5F50}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

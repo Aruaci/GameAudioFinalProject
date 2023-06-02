@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/laura/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/FH/SS23/Cross_Reality_Developement/Project v0.6/Project v0.6_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/laura/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/FH/SS23/Cross_Reality_Developement/Project v0.6/Project v0.6_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/laura/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/FH/SS23/Cross_Reality_Developement/Project v0.6/Project v0.6_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/laura/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/FH/SS23/Cross_Reality_Developement/Project v0.6/Project v0.6_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="782826392" Language="SFX" Hash="697689896">
+			<ObjectPath>\SoundBanks\Default Work Unit\Default</ObjectPath>
+			<ShortName>Default</ShortName>
+			<Path>Default.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2637631400" Name="Play_Coin_Collision" ObjectPath="\Events\Default Work Unit\Play_Coin_Collision" DurationType="OneShot" DurationMin="0.038639" DurationMax="2.147846">
+					<IncludedMemoryFiles>
+						<File Id="231037869" Language="SFX">
+							<ShortName>Coin on coins_07.wav</ShortName>
+							<Path>SFX/Coin on coins_07_10C4C929.wem</Path>
+						</File>
+						<File Id="244849897" Language="SFX">
+							<ShortName>Coin Flip - 8.wav</ShortName>
+							<Path>SFX/Coin Flip - 8_10C4C929.wem</Path>
+						</File>
+						<File Id="274808450" Language="SFX">
+							<ShortName>Coin Flip - 3.wav</ShortName>
+							<Path>SFX/Coin Flip - 3_10C4C929.wem</Path>
+						</File>
+						<File Id="299175618" Language="SFX">
+							<ShortName>Coin on coins_02.wav</ShortName>
+							<Path>SFX/Coin on coins_02_10C4C929.wem</Path>
+						</File>
+						<File Id="305762656" Language="SFX">
+							<ShortName>Coin on coins_05.wav</ShortName>
+							<Path>SFX/Coin on coins_05_10C4C929.wem</Path>
+						</File>
+						<File Id="309631132" Language="SFX">
+							<ShortName>Coin on coins_03.wav</ShortName>
+							<Path>SFX/Coin on coins_03_10C4C929.wem</Path>
+						</File>
+						<File Id="366522758" Language="SFX">
+							<ShortName>Coin Flip - 7.wav</ShortName>
+							<Path>SFX/Coin Flip - 7_10C4C929.wem</Path>
+						</File>
+						<File Id="775828184" Language="SFX">
+							<ShortName>Coin on coins_04.wav</ShortName>
+							<Path>SFX/Coin on coins_04_10C4C929.wem</Path>
+						</File>
+						<File Id="840955394" Language="SFX">
+							<ShortName>Coin Flip - 4.wav</ShortName>
+							<Path>SFX/Coin Flip - 4_10C4C929.wem</Path>
+						</File>
+						<File Id="843443993" Language="SFX">
+							<ShortName>Coin on coins_10.wav</ShortName>
+							<Path>SFX/Coin on coins_10_10C4C929.wem</Path>
+						</File>
+						<File Id="884206095" Language="SFX">
+							<ShortName>Coin Flip - 5.wav</ShortName>
+							<Path>SFX/Coin Flip - 5_10C4C929.wem</Path>
+						</File>
+						<File Id="1003158434" Language="SFX">
+							<ShortName>Coin on coins_01.wav</ShortName>
+							<Path>SFX/Coin on coins_01_10C4C929.wem</Path>
+						</File>
+						<File Id="1072259663" Language="SFX">
+							<ShortName>Coins Hit 3.wav</ShortName>
+							<Path>SFX/Coins Hit 3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2292458263" Name="Play_Door_Close" ObjectPath="\Events\Default Work Unit\Play_Door_Close" DurationType="OneShot" DurationMin="0.91" DurationMax="0.91">
+					<IncludedMemoryFiles>
+						<File Id="944770902" Language="SFX">
+							<ShortName>Door_Close.wav</ShortName>
+							<Path>SFX/Door_Close_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1660008929" Name="Play_Door_Open" ObjectPath="\Events\Default Work Unit\Play_Door_Open" DurationType="OneShot" DurationMin="1.39" DurationMax="1.39">
+					<IncludedMemoryFiles>
+						<File Id="795932028" Language="SFX">
+							<ShortName>Door_Open.wav</ShortName>
+							<Path>SFX/Door_Open_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2300854171" Name="Play_enemy_collision" ObjectPath="\Events\Default Work Unit\Play_enemy_collision" DurationType="OneShot" DurationMin="0.602362" DurationMax="0.602362">
+					<IncludedMemoryFiles>
+						<File Id="1059702560" Language="SFX">
+							<ShortName>enemy_collision.wav</ShortName>
+							<Path>SFX/enemy_collision_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2045007312" Name="Play_Enemy_Hit" ObjectPath="\Events\Default Work Unit\Play_Enemy_Hit" DurationType="OneShot" DurationMin="2.909161" DurationMax="2.909161">
+					<IncludedMemoryFiles>
+						<File Id="688841284" Language="SFX">
+							<ShortName>enemy_hit.wav</ShortName>
+							<Path>SFX/enemy_hit_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1598528330" Name="Play_Fish_Splash" ObjectPath="\Events\Default Work Unit\Play_Fish_Splash" MaxAttenuation="100." DurationType="OneShot" DurationMin="0.954063" DurationMax="2.518729">
+					<IncludedMemoryFiles>
+						<File Id="37238470" Language="SFX">
+							<ShortName>splash_03.wav</ShortName>
+							<Path>SFX/splash_03_10C4C929.wem</Path>
+						</File>
+						<File Id="412149157" Language="SFX">
+							<ShortName>splash_01.wav</ShortName>
+							<Path>SFX/splash_01_10C4C929.wem</Path>
+						</File>
+						<File Id="882988114" Language="SFX">
+							<ShortName>splash_02.wav</ShortName>
+							<Path>SFX/splash_02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1597834659" Name="Play_Ocean_Ambience" ObjectPath="\Events\Default Work Unit\Play_Ocean_Ambience" MaxAttenuation="100." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="245001738" Language="SFX">
+							<ShortName>waves_02.wav</ShortName>
+							<Path>SFX/waves_02_10C4C929.wem</Path>
+						</File>
+						<File Id="367074461" Language="SFX">
+							<ShortName>seagulls_02.wav</ShortName>
+							<Path>SFX/seagulls_02_10C4C929.wem</Path>
+						</File>
+						<File Id="775331267" Language="SFX">
+							<ShortName>seagulls_01.wav</ShortName>
+							<Path>SFX/seagulls_01_10C4C929.wem</Path>
+						</File>
+						<File Id="895208242" Language="SFX">
+							<ShortName>seagulls_03.wav</ShortName>
+							<Path>SFX/seagulls_03_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2641650631" Name="Play_Shoot" ObjectPath="\Events\Default Work Unit\Play_Shoot" DurationType="OneShot" DurationMin="0.833333" DurationMax="2.16675">
+					<IncludedMemoryFiles>
+						<File Id="52833075" Language="SFX">
+							<ShortName>Impact_07.wav</ShortName>
+							<Path>SFX/Impact_07_10C4C929.wem</Path>
+						</File>
+						<File Id="376484976" Language="SFX">
+							<ShortName>Impact_06.wav</ShortName>
+							<Path>SFX/Impact_06_10C4C929.wem</Path>
+						</File>
+						<File Id="487277206" Language="SFX">
+							<ShortName>Impact_02.wav</ShortName>
+							<Path>SFX/Impact_02_10C4C929.wem</Path>
+						</File>
+						<File Id="523595224" Language="SFX">
+							<ShortName>Impact_05.wav</ShortName>
+							<Path>SFX/Impact_05_10C4C929.wem</Path>
+						</File>
+						<File Id="586160961" Language="SFX">
+							<ShortName>Impact_03.wav</ShortName>
+							<Path>SFX/Impact_03_10C4C929.wem</Path>
+						</File>
+						<File Id="694048039" Language="SFX">
+							<ShortName>Impact_04.wav</ShortName>
+							<Path>SFX/Impact_04_10C4C929.wem</Path>
+						</File>
+						<File Id="953590672" Language="SFX">
+							<ShortName>Impact_01.wav</ShortName>
+							<Path>SFX/Impact_01_10C4C929.wem</Path>
+						</File>
+						<File Id="1017265533" Language="SFX">
+							<ShortName>Impact_09.wav</ShortName>
+							<Path>SFX/Impact_09_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

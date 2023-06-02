@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{08A77466-4A2D-4732-BA13-C65F70BE7C9C}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{08A77466-4A2D-4732-BA13-C65F70BE7C9C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Default" ID="{F0422362-92F5-473E-8C36-4DE8D7E322BD}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Ocean_Ambience" ID="{2140F8C3-A5D3-41C1-9F25-2A029FCEB8E5}" WorkUnitID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_enemy_collision" ID="{3E39EC8F-C38B-4311-83B4-8BBAD20DE06C}" WorkUnitID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Shoot" ID="{6556AD22-D64C-49FC-A631-F915D2700443}" WorkUnitID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Fish_Splash" ID="{592EF095-2669-4C3F-B204-89CA5F672A8B}" WorkUnitID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Door_Close" ID="{3D40C68E-6615-4EE4-A8CD-29B667C75321}" WorkUnitID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Enemy_Hit" ID="{75E7427C-AE6C-4EEF-A453-78C3EA7528B4}" WorkUnitID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Door_Open" ID="{99D1E550-41D5-4FB7-9BB3-DCF83DA2674E}" WorkUnitID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Coin_Collision" ID="{357D9BE0-43DE-4FFF-BC21-04694FEF2FDA}" WorkUnitID="{814F77D9-14C3-4DBC-8449-A1BF37E5E209}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,44 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1597834659	Play_Ocean_Ambience			\Default Work Unit\Play_Ocean_Ambience	
+	1598528330	Play_Fish_Splash			\Default Work Unit\Play_Fish_Splash	
+	1660008929	Play_Door_Open			\Default Work Unit\Play_Door_Open	
+	2045007312	Play_Enemy_Hit			\Default Work Unit\Play_Enemy_Hit	
+	2292458263	Play_Door_Close			\Default Work Unit\Play_Door_Close	
+	2300854171	Play_enemy_collision			\Default Work Unit\Play_enemy_collision	
+	2637631400	Play_Coin_Collision			\Default Work Unit\Play_Coin_Collision	
+	2641650631	Play_Shoot			\Default Work Unit\Play_Shoot	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	37238470	splash_03	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\splash_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fish_Splash\splash_03		237076
+	52833075	Impact_07	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Impact_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot\Impact_07		160064
+	231037869	Coin on coins_07	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin on coins_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin on coins_07		92406
+	244849897	Coin Flip - 8	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin Flip - 8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin Flip - 8		352320
+	245001738	waves_02	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\waves_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ocean_Ambience\waves_02		24532012
+	274808450	Coin Flip - 3	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin Flip - 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin Flip - 3		256064
+	299175618	Coin on coins_02	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin on coins_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin on coins_02		83576
+	305762656	Coin on coins_05	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin on coins_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin on coins_05		87608
+	309631132	Coin on coins_03	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin on coins_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin on coins_03		80862
+	366522758	Coin Flip - 7	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin Flip - 7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin Flip - 7		378944
+	367074461	seagulls_02	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\seagulls_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ocean_Ambience\Seagull_Sounds\seagulls_02		2793124
+	376484976	Impact_06	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Impact_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot\Impact_06		334076
+	412149157	splash_01	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\splash_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fish_Splash\splash_01		183244
+	487277206	Impact_02	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Impact_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot\Impact_02		256068
+	523595224	Impact_05	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Impact_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot\Impact_05		416076
+	586160961	Impact_03	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Impact_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot\Impact_03		256068
+	688841284	Enemy_hit	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\enemy_hit_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy_hit		513240
+	694048039	Impact_04	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Impact_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot\Impact_04		416080
+	775331267	seagulls_01	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\seagulls_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ocean_Ambience\Seagull_Sounds\seagulls_01		5920416
+	775828184	Coin on coins_04	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin on coins_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin on coins_04		65334
+	795932028	Door_Open	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Door_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door_Open		266944
+	840955394	Coin Flip - 4	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin Flip - 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin Flip - 4		230344
+	843443993	Coin on coins_10	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin on coins_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin on coins_10		81826
+	882988114	splash_02	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\splash_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fish_Splash\splash_02		483660
+	884206095	Coin Flip - 5	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin Flip - 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin Flip - 5		188628
+	895208242	seagulls_03	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\seagulls_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ocean_Ambience\Seagull_Sounds\seagulls_03		5928444
+	944770902	Door_Close	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Door_Close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door_Close		174784
+	953590672	Impact_01	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Impact_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot\Impact_01		297268
+	1003158434	Coin on coins_01	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coin on coins_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coin on coins_01		69128
+	1017265533	Impact_09	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Impact_09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shoot\Impact_09		253664
+	1059702560	enemy_collision	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\enemy_collision_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy_collision		56384
+	1072259663	Coins Hit 3	Y:\Documents\FH\SS23\Cross_Reality_Developement\Project v0.6\Project v0.6_WwiseProject\.cache\Mac\SFX\Coins Hit 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin_Collision\Coins Hit 3		6880
+
